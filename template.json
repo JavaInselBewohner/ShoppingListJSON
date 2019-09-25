@@ -1,0 +1,20 @@
+{
+  "stores": [
+    {
+      "name": "Store name",
+      "items": [
+        {
+          "name": "item name",
+          "amount": "item amount",
+          "unit": "item unit",
+          "alternative": {
+            "name": "alternative item name",
+            "amount": "alternative item amount",
+            "unit": "alternative item unit",
+            "alternative": null
+          }
+        }
+      ]
+    }
+  ]
+}
