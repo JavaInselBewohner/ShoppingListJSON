@@ -1,0 +1,67 @@
+{
+  "stores": [
+    {
+      "name": "Rewe",
+      "items": [
+        {
+          "name": "LKW süß",
+          "amount": "3",
+          "unit": "stück",
+          "alternative": null
+        },
+        {
+          "name": "LKW scharf",
+          "amount": "2",
+          "unit": "stück",
+          "alternative": {
+            "name": "Wurstsemmel mit gurke",
+            "amount": "2",
+            "unit": "stück",
+            "alternative": null
+          }
+        },
+        {
+          "name": "wurstsemmel mit paprikawurst",
+          "amount": "4",
+          "unit": "stück",
+          "alternative": null
+        },
+        {
+          "name": "Apfel grün",
+          "amount": "2",
+          "unit": "stück",
+          "alternative": null
+        },
+        {
+          "name": "Banane",
+          "amount": "3",
+          "unit": "stück",
+          "alternative": null
+        },
+        {
+          "name": "Quark",
+          "amount": "500",
+          "unit": "g",
+          "alternative": null
+        }
+      ]
+    },
+    {
+      "name": "Bäcker",
+      "items": [
+        {
+          "name": "MozzFladen",
+          "amount": "1",
+          "unit": "stück",
+          "alternative": null
+        },
+        {
+          "name": "Käsestange",
+          "amount": "1",
+          "unit": "stück",
+          "alternative": null
+        }
+      ]
+    }
+  ]
+}
